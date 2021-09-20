@@ -30,4 +30,4 @@ react with redux template
 
 ```
 
-[[README.md]]
+[[README]]
