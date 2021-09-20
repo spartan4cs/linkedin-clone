@@ -17,3 +17,7 @@ public static void main(String[] args) {
 
 react with redux template
 : npx create-react-app app_name --template redux
+
+![term](https://thisis awesome)
+
+
