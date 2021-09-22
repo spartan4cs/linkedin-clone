@@ -17,7 +17,7 @@ const Sidebar = () => {
           alt=""
         />
 
-        <Avatar className="sidebar__avatar" />
+        <Avatar className="sidebar__avatar" src="https://pbs.twimg.com/profile_images/1393954096776761344/XXUnwfUF_400x400.jpg"/>
         <h2>Akash Kumbhare</h2>
         <h4>aakashkumbhare@gmail.com</h4>
       </div>

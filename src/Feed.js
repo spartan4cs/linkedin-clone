@@ -13,6 +13,9 @@ const Feed = () => {
             </form>
           </div>
         </div>
+
+        <div className="feed__inputOption">
+        </div>
     </div>
   );
 };
