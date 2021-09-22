@@ -1,9 +1,18 @@
+import { Create } from "@mui/icons-material";
 import React from "react";
 import "./Feed.css";
 const Feed = () => {
   return (
     <div className="feed">
-      <h2>thisi isfeed</h2>
+        <div className="feed__inputContainer">
+          <div className="feed__input">
+            <Create/>
+            <form>  
+              <input type="text"/>
+              <button type="submit">send</button>    
+            </form>
+          </div>
+        </div>
     </div>
   );
 };
